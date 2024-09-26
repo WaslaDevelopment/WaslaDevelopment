@@ -1,16 +1,38 @@
-## Hi there 👋
+# Project Name
 
-<!--
-**WaslaDevelopment/WaslaDevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A brief description of your project and its purpose.
 
-Here are some ideas to get you started:
+## Table of Contents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Project Overview](#project-overview)
+- [Figma Design](#figma-design)
+- [Live Production](#live-production)
+- [Installation](#installation)
+- [API Documentation](#api-documentation)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Project Overview
+
+Describe what your project is about. Include key features and the primary goal of the project.
+
+## Figma Design
+
+View the design prototype on Figma here:
+
+[![Figma](https://img.shields.io/badge/View%20Figma-Design-blue?style=for-the-badge)](your-figma-link)
+
+## Live Production
+
+Check out the live version of the project:
+
+[![Live](https://img.shields.io/badge/View%20Live-Production-green?style=for-the-badge)](your-live-production-link)
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/repository-name.git
