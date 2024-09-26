@@ -33,6 +33,3 @@ Check out the live version of the project:
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
