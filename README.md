@@ -5,7 +5,7 @@ A brief description of your project and its purpose.
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Figma Design]((https://www.figma.com/design/Qvht0sqAuiE3MkdDG8lqnE/Wasla?node-id=910-83&node-type=frame))
+- [Figma Design]((#https://www.figma.com/design/Qvht0sqAuiE3MkdDG8lqnE/Wasla?node-id=910-83&node-type=frame))
 - [Live Production](https://wasla-llc.com/en/login)
 - [Installation](#installation)
 - [API Documentation](#api-documentation)
@@ -15,7 +15,7 @@ A brief description of your project and its purpose.
 
 ## Project Overview
 
-Describe what your project is about. Include key features and the primary goal of the project.
+Waslla LLc Project
 
 ## Figma Design
 
